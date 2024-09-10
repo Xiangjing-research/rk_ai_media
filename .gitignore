@@ -54,5 +54,4 @@ dkms.conf
 build/
 install/
 model/
-rkmpp/
 .vscode/
